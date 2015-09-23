@@ -4,7 +4,7 @@ int main()
 {
 	using namespace std;
 
-
+cout<<"how beautiful ";
 cout<<"shanghai university!"<<endl;
 	cout << "hello world!"<<endl;
 
